@@ -10,4 +10,4 @@ More details will be posted as soon the manuscript accepted.
 
 Datasets: https://www.deepsense6g.net/scenarios/ <br>
 
-Conctact: m.m.baqer@ieee.org
+Feel free to conctact: m.m.baqer@ieee.org
