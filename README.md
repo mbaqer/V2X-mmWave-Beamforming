@@ -29,7 +29,7 @@ The codes are implemented for the following paper: <br>
 }
 ```
 
-IEEE Xplore: https://ieeexplore.ieee.org/document/10949645
+Paper: https://arxiv.org/pdf/2509.11112
 
 Datasets: https://www.deepsense6g.net/scenarios/ <br>
 
