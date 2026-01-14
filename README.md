@@ -4,7 +4,9 @@ A project on deep learning based multi-modality sensing in 60 GHz mmWave beamfor
 ### Paper:
 The codes are implemented for the following paper: <br>
 
->  M.B. Mollah, H. Wang, M.A. Karim, H. Fang, "Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning", IEEE Transactions on Cognitive Communications and Networking, pp. 1-15, April 2025.
+>  M.B. Mollah, H. Wang, M.A. Karim, H. Fang, "Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning", IEEE Transactions on Cognitive Communications and Networking, vol. 12, pp. 327-341, 2026.
+
+>  M.B. Mollah, H. Wang, H. Fang, "Position Aware 60 GHz mmWave Beamforming for V2V Communications Utilizing Deep Learning", ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 4711-4716. <br>
 
 ### Citatation:
 ```
@@ -16,6 +18,14 @@ The codes are implemented for the following paper: <br>
   volume={},
   number={},
   pages={1-15}
+}
+@inproceedings{mollah2024position,
+  title={Position Aware 60 {GH}z mm{W}ave Beamforming for {V}2{V} Communications Utilizing Deep Learning}, 
+  author={Mollah, Muhammad Baqer and Wang, Honggang and Fang, Hua},
+  booktitle={ICC 2024 - IEEE International Conference on Communications},
+  pages={4711-4716},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
